@@ -23,7 +23,7 @@
 ![Backend Development](https://img.shields.io/badge/Backend%20Development-black?style=flat&logo=backend&logoColor=white)
 
 <br/>
-📫 Ulaşmak için
+📫 To reach me
 <br/>
 <br/>
 
