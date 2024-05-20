@@ -54,6 +54,12 @@
 <br/>
 <br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kadirdemirkaya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+<br>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
