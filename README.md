@@ -48,7 +48,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,postman,rabbitmq,redis,vscode,github,linkedin" /><br>
-    <img src="https://skillicons.dev/icons?i=postgres,html,css,nginx,docker,vscode,git,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=postgres,html,css,nginx,docker,git,kubernetes" />
 </div>
 
 <br/>
