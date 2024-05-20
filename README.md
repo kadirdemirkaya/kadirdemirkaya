@@ -54,8 +54,25 @@
 <br/>
 <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kadirdemirkaya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<h2 align=center>🏆 GitHub Trophies 🏆 </h2>
+
+<div align="center">
+    
+   ![](https://github-profile-trophy.vercel.app/?username=kadirdemirkaya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+    
+</div>
+
+<br>
+<br>
+
+<h2 align="center">🔝 Top Contributed Repo 🔝</h2>
+<br>
+ 
+<div align=center>
+    
+![](https://github-contributor-stats.vercel.app/api?username=kadirdemirkaya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
 
 <br>
 <br>
