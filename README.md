@@ -48,7 +48,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,postman,rabbitmq,redis,vscode,github,linkedin" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,nginx,docker,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,nginx,docker,git,jenkins" />
    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 </div>
 
