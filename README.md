@@ -21,7 +21,7 @@
 ![Backend Development](https://img.shields.io/badge/Backend%20Development-black?style=flat&logo=backend&logoColor=white)
 
 <br/>
-📫 To reach me
+📫 Find me on
 <br/>
 <br/>
 
@@ -35,8 +35,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/kadirdemirkaya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" width="120" height="30" />
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" width="90" height="30" />
   </a>
+ <a href="https://www.nuget.org/profiles/kadirkdr" target="_blank">
+   <img src="https://img.shields.io/badge/-NuGet-004880?style=flat&logo=nuget&logoColor=white" width="90" height="30" />
+ </a>
+ <a href="https://www.kaggle.com/kadirkdr" target="_blank">
+   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" width="100" height="30" />
+ </a>
 </div>
 
 <br>
