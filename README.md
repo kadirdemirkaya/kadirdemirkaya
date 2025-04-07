@@ -8,17 +8,17 @@
 
 <div align="center">
  
- 🔭 I’m currently interesting on backend 
+ 🔭 I’m currently interesting on backend and python 
  
- 🌱 I’m currently learning .net core and microservice architectural
+ 🌱 I’m develop myself with .net core and python 
 
  ⚡ I'm living in Istanbul, Turkiye
 
  
 
 ![.Net Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=flat&logo=microservices&logoColor=white)
 ![Backend Development](https://img.shields.io/badge/Backend%20Development-black?style=flat&logo=backend&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0078D4?style=flat&logo=microservices&logoColor=white)
 
 <br/>
 📫 Find me on
@@ -52,7 +52,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cs,py,dotnet,postgres,postman,rabbitmq,redis,vscode,github,linkedin" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,git,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,git,aws" />
    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 </div>
 
