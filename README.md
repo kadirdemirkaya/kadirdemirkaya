@@ -65,30 +65,7 @@
 <br>
 <br>
 
-<h2 align="center">🔝 Top Contributed Repo 🔝</h2>
-<br>
- 
-<div align=center>
-    
-![](https://github-contributor-stats.vercel.app/api?username=kadirdemirkaya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-</div>
-
-<br>
-<br>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-   <img width=390 height=276 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirdemirkaya&hide=javascript,html" alt="readme stats" />
-    
-
-   
-  <br/>
-</div>
-
-<br/><br/>
-<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
