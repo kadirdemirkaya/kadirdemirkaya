@@ -53,8 +53,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,dotnet,postgres,postman,visualstudio,rabbitmq,redis,vscode,github,linkedin" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,git,aws" />
+    <img src="https://skillicons.dev/icons?i=cs,java,py,dotnet,postgres,postman,vscode,visualstudio,rabbitmq,redis,github,linkedin" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,git,aws,ai" />
    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 </div>
 
