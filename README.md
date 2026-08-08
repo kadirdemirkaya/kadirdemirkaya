@@ -1,36 +1,28 @@
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+kadir+demirkaya!;" />
 </h1>
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=kadirdemirkaya&label=Profile%20views&color=0e75b6&style=flat" alt="kadirdemirkaya" />
 </p>
-
 <h3 align="center">A software developer willing to learn in Turkiye</h3>
-
 <br/>
-
 <div align="center">
  
- 🔭 I’m currently interesting on backend and python 
+ 🔭 I'm currently deepening my skills in software engineering, with a focus on scalable systems
  
- 🌱 I’m develop myself with .net core and python 
-
+ 🌱 I'm growing myself by exploring different languages, frameworks, and modern development practices
+ 
  ⚡ I'm living in Istanbul, Turkiye
 
+ 🎮 I also build and ship indie mobile games as a side passion
  
-
-![.Net Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Backend%20Development-black?style=flat&logo=backend&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0078D4?style=flat&logo=microservices&logoColor=white)
-
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-black?style=flat&logo=codeium&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-black?style=flat&logo=codeforces&logoColor=white)
+![Always Learning](https://img.shields.io/badge/Always%20Learning-black?style=flat&logo=googlescholar&logoColor=white)
 <br/>
 📫 Find me on
 <br/>
 <br/>
-
 </div>
  
 <div align="center"> 
@@ -50,9 +42,7 @@
    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" width="100" height="30" />
  </a>
 </div>
-
 <br>
-
 <br/>
 <br/>
 <h2 align="center">📱 My Mobile Games</h2>
@@ -70,9 +60,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.voidswing.game" target="_blank"><b>Void Swing</b></a>
 </div>
-
 <br/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -80,13 +68,36 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/><br>
     <img src="https://skillicons.dev/icons?i=html,css,js,nginx,docker,grafana,rabbitmq,k8s,git,aws,jenkins" />
 </div>
-
 <br/>
 <br/>
+<h2 align="center">🚀 Featured Projects</h2>
+<br/>
+<div align="center">
 
+| Project | Description |
+|---|---|
+| [**Saga-Pattern**](https://github.com/kadirdemirkaya/Saga-Pattern) | Event-based saga pattern example project for microservices |
+| [**Weather-Microservice**](https://github.com/kadirdemirkaya/Weather-Microservice) | A weather forecast project built with microservice architecture |
+| [**Menu-Tenant**](https://github.com/kadirdemirkaya/Menu-Tenant) | A multi-tenant menu example project |
+| [**EventFlux**](https://github.com/kadirdemirkaya/EventFlux) | Lightweight .NET library for processing a single request with multiple handlers and pipeline behaviors |
 
+</div>
+<br/>
+<h2 align="center">📦 NuGet Packages</h2>
+<br/>
+<div align="center">
+
+| Package | Downloads | Description |
+|---|---|---|
+| [**EventFlux**](https://www.nuget.org/packages/EventFlux) | 3,107+ | Lightweight event-based CQRS implementation for .NET applications |
+| [**FlowValidate**](https://www.nuget.org/packages/FlowValidate) | 2,770+ | Lightweight validation library for request-based models with async support |
+| [**EventStreamLib**](https://www.nuget.org/packages/EventStreamLib) | 2,034+ | Event-driven, distributed library built with Redis for real-time event processing |
+
+<sub>See all packages on <a href="https://www.nuget.org/profiles/kadirkdr">NuGet</a></sub>
+
+</div>
+<br/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-
 <br/>
