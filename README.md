@@ -15,10 +15,13 @@
  ⚡ I'm living in Istanbul, Turkiye
 
  🎮 I also build and ship indie mobile games as a side passion
+
+<br/>
  
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-black?style=flat&logo=codeium&logoColor=white)
 ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-black?style=flat&logo=codeforces&logoColor=white)
 ![Always Learning](https://img.shields.io/badge/Always%20Learning-black?style=flat&logo=googlescholar&logoColor=white)
+<br/>
 <br/>
 📫 Find me on
 <br/>
@@ -89,11 +92,16 @@
 
 | Package | Downloads | Description |
 |---|---|---|
-| [**EventFlux**](https://www.nuget.org/packages/EventFlux) | 3,107+ | Lightweight event-based CQRS implementation for .NET applications |
-| [**FlowValidate**](https://www.nuget.org/packages/FlowValidate) | 2,770+ | Lightweight validation library for request-based models with async support |
+| [**EventFlux**](https://www.nuget.org/packages/EventFlux) | 3,110+ | Lightweight event-based CQRS implementation for .NET applications |
+| [**FlowValidate**](https://www.nuget.org/packages/FlowValidate) | 2,572+ | Lightweight validation library for request-based models with async support |
 | [**EventStreamLib**](https://www.nuget.org/packages/EventStreamLib) | 2,034+ | Event-driven, distributed library built with Redis for real-time event processing |
+| [**EventFlux.RabbitFlow**](https://www.nuget.org/packages/EventFlux.RabbitFlow) | 1,463+ | Lightweight .NET library for event-driven applications with RabbitMQ integration, providing distributed event support and domain events |
 
 <sub>See all packages on <a href="https://www.nuget.org/profiles/kadirkdr">NuGet</a></sub>
+
+<br/>
+<h2 align="center"></h2>
+<br/>
 
 </div>
 <br/>
