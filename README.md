@@ -92,10 +92,10 @@
 
 | Package | Downloads | Description |
 |---|---|---|
-| [**EventFlux**](https://www.nuget.org/packages/EventFlux) | 3,110+ | Lightweight event-based CQRS implementation for .NET applications |
-| [**FlowValidate**](https://www.nuget.org/packages/FlowValidate) | 2,572+ | Lightweight validation library for request-based models with async support |
-| [**EventStreamLib**](https://www.nuget.org/packages/EventStreamLib) | 2,034+ | Event-driven, distributed library built with Redis for real-time event processing |
-| [**EventFlux.RabbitFlow**](https://www.nuget.org/packages/EventFlux.RabbitFlow) | 1,463+ | Lightweight .NET library for event-driven applications with RabbitMQ integration, providing distributed event support and domain events |
+| [**EventFlux**](https://www.nuget.org/packages/EventFlux) | [![NuGet Downloads](https://img.shields.io/nuget/dt/EventFlux)](https://www.nuget.org/packages/EventFlux) | Lightweight event-based CQRS implementation for .NET applications |
+| [**FlowValidate**](https://www.nuget.org/packages/FlowValidate) | [![NuGet Downloads](https://img.shields.io/nuget/dt/FlowValidate)](https://www.nuget.org/packages/FlowValidate) | Lightweight validation library for request-based models with async support |
+| [**EventStreamLib**](https://www.nuget.org/packages/EventStreamLib) | [![NuGet Downloads](https://img.shields.io/nuget/dt/EventStreamLib)](https://www.nuget.org/packages/EventStreamLib) | Event-driven, distributed library built with Redis for real-time event processing |
+| [**EventFlux.RabbitFlow**](https://www.nuget.org/packages/EventFlux.RabbitFlow) | [![NuGet Downloads](https://img.shields.io/nuget/dt/EventFlux.RabbitFlow)](https://www.nuget.org/packages/EventFlux.RabbitFlow) | Lightweight .NET library for event-driven applications with RabbitMQ integration, providing distributed event support and domain events |
 
 <sub>See all packages on <a href="https://www.nuget.org/profiles/kadirkdr">NuGet</a></sub>
 
