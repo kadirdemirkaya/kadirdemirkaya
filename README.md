@@ -64,6 +64,14 @@
 <br/>
 <div align="center">
 
+<a href="https://github.com/kadirdemirkaya/perchbot" target="_blank">
+  <img src="https://raw.githubusercontent.com/kadirdemirkaya/perchbot/main/docs/media/bot/bot-reel-dark.gif" width="450" alt="Perchbot, a little desktop robot that acts out what Claude Code is doing" />
+</a>
+<br/>
+<sub><a href="https://github.com/kadirdemirkaya/perchbot"><b>Perchbot</b></a>: a little desktop robot that lets you watch Claude Code work</sub>
+<br/>
+<br/>
+
 | Project | Description |
 |---|---|
 | [**EventFlux**](https://github.com/kadirdemirkaya/EventFlux) | In-process mediator for .NET: single request, multiple handlers, pipeline behaviors, with a path to distributed messaging (RabbitMQ, Redis) |
@@ -73,7 +81,10 @@
 
 </div>
 <br/>
-<h2 align="center">📦 NuGet Packages</h2>
+<h2 align="center">📦 NuGet Packages
+  <a href="https://www.nuget.org/profiles/kadirkdr" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fazuresearch-usnc.nuget.org%2Fquery%3Fq%3Downer%3Akadirkdr%26take%3D0%26prerelease%3Dtrue%26semVerLevel%3D2.0.0&query=%24.totalHits&label=packages&color=004880&logo=nuget&logoColor=white&style=flat" alt="NuGet packages" /></a>
+  <a href="https://www.nuget.org/profiles/kadirkdr" target="_blank"><img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fwww.nuget.org%2Fapi%2Fv2%2FSearch()%3FsearchTerm%3D%27owner%3Akadirkdr%27%26includePrerelease%3Dtrue%26%24top%3D100&query=sum(%2F%2F*%5Blocal-name()%3D%27DownloadCount%27%5D)&label=total%20downloads&color=004880&style=flat" alt="NuGet total downloads" /></a>
+</h2>
 <br/>
 <div align="center">
 
@@ -87,6 +98,21 @@
 | [**MapFlux**](https://www.nuget.org/packages/MapFlux) | [![NuGet Downloads](https://img.shields.io/nuget/dt/MapFlux)](https://www.nuget.org/packages/MapFlux) | Lightweight object-to-object mapping library with compiled mapping plans, Profile and Attribute based mapping |
 
 <sub>See all packages on <a href="https://www.nuget.org/profiles/kadirkdr">NuGet</a></sub>
+
+</div>
+<br/>
+<h2 align="center">📦 npm Packages
+  <a href="https://www.npmjs.com/~kadirkdr" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fregistry.npmjs.org%2F-%2Fv1%2Fsearch%3Ftext%3Dmaintainer%3Akadirkdr%26size%3D1&query=%24.total&label=packages&color=CB3837&logo=npm&logoColor=white&style=flat" alt="npm packages" /></a>
+  <a href="https://www.npmjs.com/~kadirkdr" target="_blank"><img src="https://img.shields.io/npm/d18m/perchbot?label=total%20downloads&color=CB3837&style=flat" alt="npm total downloads" /></a>
+</h2>
+<br/>
+<div align="center">
+
+| Package | Downloads | Description |
+|---|---|---|
+| [**perchbot**](https://www.npmjs.com/package/perchbot) | [![npm Downloads](https://img.shields.io/npm/d18m/perchbot)](https://www.npmjs.com/package/perchbot) | A tiny animated desktop companion that reacts to what your coding agent is doing, driven by Claude Code hooks |
+
+<sub>See all packages on <a href="https://www.npmjs.com/~kadirkdr">npm</a></sub>
 
 </div>
 <br/>
